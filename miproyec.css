@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
 
 background-color: FFFF99;
@@ -7,6 +8,11 @@ h1 {
   background-color: black;
   border: 1px solid black;
   color:yellow;
+=======
+h1 {
+  background-color: yellow;
+  border: 1px solid #ccc;
+>>>>>>> bf370fe85704558550f8a96770899d086fc49dd5
   padding: 0 1rem;
   margin: 4rem;
 }
@@ -22,20 +28,32 @@ tr
 {
 color: blue;
 display= line-block
+<<<<<<< HEAD
 background-color: ;
+=======
+background-color: yellow;
+>>>>>>> bf370fe85704558550f8a96770899d086fc49dd5
 border: 1px solid black;
 }
 td
 {
 color: blue;
 display= line-block
+<<<<<<< HEAD
 background-color: FFFFFF;
+=======
+background-color: yellow;
+>>>>>>> bf370fe85704558550f8a96770899d086fc49dd5
 border: 1px solid black;
 }
 th
 {
 color: blue;
 display= line-block
+<<<<<<< HEAD
 background-color: FFFFFF;
+=======
+background-color: yellow;
+>>>>>>> bf370fe85704558550f8a96770899d086fc49dd5
 border: 1px solid black;
 }
